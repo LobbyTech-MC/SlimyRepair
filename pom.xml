@@ -84,9 +84,9 @@
         </dependency>
 
         <dependency>
-            <groupId>com.github.Slimefun</groupId>
+            <groupId>com.github.StarWishsama</groupId>
             <artifactId>Slimefun4</artifactId>
-            <version>RC-37</version>
+            <version>a19da27bee</version>
             <scope>provided</scope>
         </dependency>
 
